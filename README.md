@@ -190,6 +190,3 @@ yarn add nodetomic-api --ignore-engines
 
 You can find the documentation <a href="https://github.com/kevoj/nodetomic-api/wiki" >HERE!</a>
 
-## License
-
-MIT © [Leonardo Rico](https://github.com/kevoj/nodetomic-api/blob/master/LICENSE)
